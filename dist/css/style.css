@@ -1,0 +1,151 @@
+body{
+    background-image: url('../../images/bg_geral.jpg');
+    background-repeat: repeat-y;
+    background-color: black;
+    color: #FFFFFF;
+}
+header{
+    width: 100%;
+    position: relative;
+    height: 80px;
+
+}
+.logo-sebrae{
+    height: 80px;
+}
+.logo-sebrae img{
+    height: 60px;
+    position: relative;
+    float: left;
+    margin: 10px;
+}
+.logo-empretec{
+    height: 80px;
+    width: 100%;
+    text-align: center;
+}
+.logo-empretec img{
+    height: 100px;
+    text-align: center;
+}
+
+.representante1{
+    position: relative;
+    float: left;
+    height: 300px;
+    top:120px;
+}
+.representante1 img{
+    height: 300px;
+}
+
+.img-r1{
+    position: relative;
+    float: left;
+    top:100px;
+    font-size: 16px;
+}
+.img-r1 img{
+    height: 150px;
+}
+.texto-r1{
+    position: relative;
+    float: left;
+    top:100px;
+    font-size: 16px;
+    padding-left: 50px;
+}
+.saiba{
+    position: relative;
+    float: left;
+    top: 90px;
+}
+.box2{
+    position: relative;
+    float: left;
+    top:120px;
+    font-size: .9em;
+}
+.img2-r1{
+    position: relative;
+    float: left;
+    top:100px;
+}
+
+.representante2 {
+    position: relative;
+    text-align: right;
+}
+.representante2 img{
+    height: 300px;
+}
+.box3{
+    position: relative;
+    float: left;
+}
+.img-b31{
+    position: relative;
+    float: left;
+    top: 120px;
+    left: 30%;
+}
+.img-b31 img{
+    height: 120px;
+}
+.txt-img-b31{
+    position: relative;
+    float: left;
+    top: 120px;
+    left: 30%;
+}
+.img-b32{
+    position: relative;
+    top: 80px;
+    left: 100%;
+}
+.img-b32 img{
+    height: 120px;
+}
+.txt-img-b32{
+    position: relative;
+    top: 80px;
+    left: 60%;
+}
+/*##################### caracteristicas*/
+#caracteristicas{
+    background-color: #FFFFFF;
+}
+
+.titulo-car{
+    margin: 30px 0;
+    text-align: center;
+}   
+.info{
+    width: 100%;
+}
+
+.titulo-cad{
+    margin: 30px 0;
+    text-align: center;
+}
+
+#formulario div{
+    position: relative!important;
+    float: left!important;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+.submit{
+    position: relative;
+    float: left;
+    text-align: right;
+    margin: 20px 0;
+}
+
+footer{
+    background-color: #000000;
+    text-align: center;
+    height: 50px;
+    padding: 15px 0;
+    font-size: 12px;
+}
